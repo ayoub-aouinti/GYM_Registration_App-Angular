@@ -7,6 +7,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CreateResitrationComponent } from './create-resitration/create-resitration.component';
 import { ResitrationListComponent } from './resitration-list/resitration-list.component';
 import { UserDetailComponent } from './user-detail/user-detail.component';
+import { NgToastModule } from 'ng-angular-popup';
+import { NgConfirmModule } from 'ng-confirm-box';
+
+import {MatToolbarModule} from '@angular/material/toolbar';
+import {MatIconModule} from '@angular/material/icon';
+import {MatButtonModule} from '@angular/material/button';
 
 @NgModule({
   declarations: [
@@ -18,7 +24,14 @@ import { UserDetailComponent } from './user-detail/user-detail.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+
+    MatToolbarModule,
+    MatIconModule,
+    MatButtonModule,
+
+    NgToastModule,
+    NgConfirmModule
   ],
   providers: [],
   bootstrap: [AppComponent]
