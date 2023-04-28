@@ -1,0 +1,47 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Ayoub",
+      "lastName": "AOUINTI",
+      "email": "ayoubaouinti@gmail.com",
+      "mobile": 2355456555,
+      "weight": 20,
+      "height": 30,
+      "bmi": 0.022222222222222223,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-04-28T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "ayoub",
+      "lastName": "AOUINTI",
+      "email": "ahhbjhjkkl@gmail.com",
+      "mobile": 5456665222,
+      "weight": 20,
+      "height": 30,
+      "bmi": 0.022222222222222223,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-04-29T22:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
