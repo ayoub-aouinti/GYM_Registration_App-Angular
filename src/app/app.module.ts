@@ -46,7 +46,7 @@ import {MatTableModule} from '@angular/material/table';
     MatSelectModule,
     MatDatepickerModule,
     MatNativeDateModule,
-    MatTableModule,
+    
 
     NgToastModule,
     NgConfirmModule
