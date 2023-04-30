@@ -42,6 +42,28 @@
       "haveGymBefore": "No",
       "enquiryDate": "2023-04-29T22:00:00.000Z",
       "id": 2
+    },
+    {
+      "firstName": "AYOUB",
+      "lastName": "Aouinti",
+      "email": "ayoubaouinti@gmail.com",
+      "mobile": 21651790,
+      "weight": 11,
+      "height": 12,
+      "bmi": 0.0763888888888889,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-05-09T22:00:00.000Z",
+      "id": 3
     }
   ]
 }
